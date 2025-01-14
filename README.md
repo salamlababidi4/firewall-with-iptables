@@ -1,5 +1,5 @@
 # Firewall with iptables
-This project demonstrates the implementation of a simple yet powerful firewall using `iptables` on Ubuntu. The firewall leverages the flexibility of the Netfilter framework to secure Linux-based systems by filtering incoming and outgoing traffic based on customized rules.
+This project demonstrates the implementation of a simple yet powerful firewall using `iptables` on Ubuntu using Bash. The firewall leverages the flexibility of the Netfilter framework to secure Linux-based systems by filtering incoming and outgoing traffic based on customized rules.
 
 ## Key Features
 - **Packet Filtering**: Inspects and processes packets according to rules defined for source/destination IPs, ports, protocols, and connection states.
